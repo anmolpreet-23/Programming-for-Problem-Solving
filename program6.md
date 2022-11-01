@@ -6,13 +6,13 @@ int main()
 
 int i=1;
 
-while(i<=5);
+while(i<=5)
 
 {
 
-printf("%d",1);
+printf("%d",i);
 
-++1;
+++i;
 
 }
 
